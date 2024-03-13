@@ -1,6 +1,24 @@
 body {
-  padding: 5%;
   background-color: #DABAE5;
+}
+footer {
+  background-color: #6C3082;
+  padding:5%;
+}
+/* banner */
+
+.Header {
+  padding: 5px 0px 5px 0px;
+  margin: 0px;
+  width:auto;
+  text-align: center;
+  background-color: #6C3082;
+  color: white;
+}
+
+.divider {
+  background-color: #DABAE5;
+  padding:1px;
 }
 
 /* nav */
@@ -29,13 +47,34 @@ li a:hover {
   background-color: #893DA5;
 }
 
+
+/* home */
+
+/* history */
+
+.timeline {
+  padding: 0 5%;
+}
+.history-img{ 
+  padding: 2% 5% 2% 5%;
+}
+.history-img img {
+  width: 75%;
+}
+/* visit */
+.visit {
+  padding:5%;
+}
+.col-5 img {
+  width:100%;
+}
+.margin{
+  margin:1px;
+}
+ h2{
+  color: #6C3082;
+ }
 a {
-  color: white;
+  color: #893DA5;
 }
 
-/* img, p{
-  display:flex;
-  flex-direction:row;
-  justify-content:space-evenly;
-  flex-wrap: nowrap;
-} */
