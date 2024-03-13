@@ -1,0 +1,41 @@
+body {
+  padding: 5%;
+  background-color: #DABAE5;
+}
+
+/* nav */
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+  background-color: #6C3082;
+}
+
+.li {
+  float: left;
+}
+
+li a {
+  display: inline;
+  color: white;
+padding: 14px 16px;
+text-align: center;
+text-decoration: none;
+}
+
+li a:hover {
+  background-color: #893DA5;
+}
+
+a {
+  color: white;
+}
+
+/* img, p{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  flex-wrap: nowrap;
+} */
