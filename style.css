@@ -56,6 +56,9 @@ li a:hover {
   width: 75%;
   border: 5px solid white;
 }
+p li { 
+  color: #002F88;
+}
 /* history */
 .timeline {
   padding: 0 5%;
@@ -97,5 +100,6 @@ a {
 }
 
 .padding {
-  padding: 5px 0px;
+  padding: 5% 0px;
+  margin: 5%
 }
