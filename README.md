@@ -45,4 +45,5 @@ Layout - Using the 7:5 column ratio asked in the brief, I created an alternating
 
 Text - The paragraphs of text are centre aligned and are aligned vertically with the images adjacent to them. There is also a hyperlink at the end of each paragraph, allowing the user to access more information about the experiences described.
 
-Images - The images are all cropped to squares to create a neat look. They have a 5px white solid border and are rounded. 
+Image - My image is centre-aligned and has a solid 5px white border to make it stand out from the background of the page. It is also rounded to contrast from the banner, navigation bar and footer's harsher rectangular look.
+
