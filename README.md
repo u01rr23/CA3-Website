@@ -21,28 +21,28 @@ Layout - I utilised Bootstrap features to make my layout on this page responsive
 
 Text - My text is centre-aligned to contrast with and draw attention to the left-aligned navigation bar. My list of links below is also centre aligned to provide unity with the text above. 
 
-Image - My image is centre-aligned and has a solid 5px white border to make it stand out from the background of the page. It is also rounded to contrast from the banner, navigation bar and footer's harsher rectangular look.
+Images - My image is centre-aligned and has a solid 5px white border to make it stand out from the background of the page. It is also rounded to contrast from the banner, navigation bar and footer's harsher rectangular look.
 
 # Home page
 
-Layout - 
+Layout - I have used Bootstrap grid classes to achieve a responsive layout for this page. I used a full-width column for the image. I also used an equally spaced column for the paragraph of text and the static map. I encountered issues with scaling the map to the correct size, but found that setting the width and height to percentages made it suit all displays.
 
-Text - 
+Text - The text is centre aligned and is aligned to be in the vertical centre of the image next to it using flexbox functions.
 
-Images - 
+Images - My image is centre aligned and has a 5px solid white border. I also added the same border to the static map to make it fit in within the design.
 
 # History
 
-Layout
+Layout - For this page I formatted it as an unorganised list. I felt this was the best way to display a timeline in a visually appealing way. I also chose to put two similar images at the beginning and end of the timeline to indicate a change in time.
 
-Text
+Text - The dates on the timeline are emphasised using strong HTML tags and have a blue colour to help them stand out from the rest of the text. The captions for the images are centre aligned below each image.
 
-Images
+Images - I chose two images taken from the same place in two different decades. This emphasises the subject of the page as it displays the history of my hometown.
 
 # Visit
 
-Layout
+Layout - Using the 7:5 column ratio asked in the brief, I created an alternating pattern of text and image down the page using Bootstrap grid. This allows the page to suitable for any browser size. 
 
-Text
+Text - The paragraphs of text are centre aligned and are aligned vertically with the images adjacent to them. There is also a hyperlink at the end of each paragraph, allowing the user to access more information about the experiences described.
 
-Images
+Images - The images are all cropped to squares to create a neat look. They have a 5px white solid border and are rounded. 
