@@ -31,7 +31,7 @@ Text - The text is centre aligned and is aligned to be in the vertical centre of
 
 Images - My image is centre aligned and has a 5px solid white border. I also added the same border to the static map to make it fit in within the design.
 
-# History
+# History Page
 
 Layout - For this page I formatted it as an unorganised list. I felt this was the best way to display a timeline in a visually appealing way. I also chose to put two similar images at the beginning and end of the timeline to indicate a change in time.
 
@@ -39,7 +39,7 @@ Text - The dates on the timeline are emphasised using strong HTML tags and have 
 
 Images - I chose two images taken from the same place in two different decades. This emphasises the subject of the page as it displays the history of my hometown.
 
-# Visit
+# Visit Page
 
 Layout - Using the 7:5 column ratio asked in the brief, I created an alternating pattern of text and image down the page using Bootstrap grid. This allows the page to suitable for any browser size. 
 
